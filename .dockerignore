@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-server
+test-results
+playwright-report
+.playwright-browsers
+.playwright-home
+.git
+.env
+*.log

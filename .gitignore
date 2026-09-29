@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-server
+coverage
+test-results
+playwright-report
+.playwright-browsers
+.playwright-home
+.test-home
+.DS_Store
+.env
+*.local
+*.log
